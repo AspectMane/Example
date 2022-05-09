@@ -1,5 +1,3 @@
-require("dotenv").config()
-
-const Key = process.ENV.THEWORD
+const Key = secrets.THEWORD
 
 return Key
