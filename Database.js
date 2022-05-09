@@ -1,3 +1,1 @@
-const Key = secrets.THEWORD
-
-return Key
+return secrets.THEWORD
