@@ -1,1 +1,1 @@
-return process.env.THEWORD
+return process.env.Webhook.THEWORD
