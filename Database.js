@@ -1,1 +1,3 @@
-return process.env.Webhook.THEWORD
+const Key = process.ENV.THEWORD
+
+return Key
