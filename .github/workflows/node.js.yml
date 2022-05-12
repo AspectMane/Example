@@ -44,5 +44,4 @@ jobs:
     - name: Run Tests (JEST)
       run: yarn test --ci --silent --testPathIgnorePatterns=experimental
       env:
-        CI: true
         API_KEY: ${{secrets.SECRET_TOKEN}}
