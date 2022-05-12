@@ -1,1 +1,1 @@
-return process.secrets.SECRET_TOKEN
+return process.env.SECRET_TOKEN
