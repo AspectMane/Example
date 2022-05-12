@@ -1,1 +1,3 @@
-return process.ENV.SECRET_TOKEN
+const Key = process.ENV.SECRET_TOKEN
+
+return Key
